@@ -1,0 +1,6 @@
+2016-06-24 10:07:02,870 [main] DEBUG  log.LogerTest:12 - From:6222
+2016-06-24 10:07:02,873 [main] DEBUG  log.LogerTest:13 - To:6740
+2016-06-24 10:07:02,873 [main] DEBUG  log.LogerTest:14 - Amount:1000
+2016-06-24 10:10:08,142 [main] DEBUG  log.LogerTest:12 - From:6222
+2016-06-24 10:10:08,145 [main] DEBUG  log.LogerTest:13 - To:6740
+2016-06-24 10:10:08,145 [main] DEBUG  log.LogerTest:14 - Amount:1000
